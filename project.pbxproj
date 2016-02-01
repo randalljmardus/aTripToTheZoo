@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		156727B71C5A712B0039690C /* Penguin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 156727B61C5A712B0039690C /* Penguin.swift */; };
+		158877F01C5FCA78007539D5 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158877EF1C5FCA78007539D5 /* Animal.swift */; };
 		15B2ABA31C57B62300F2E632 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B2ABA21C57B62300F2E632 /* AppDelegate.swift */; };
 		15B2ABA51C57B62300F2E632 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B2ABA41C57B62300F2E632 /* ViewController.swift */; };
 		15B2ABA81C57B62300F2E632 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15B2ABA61C57B62300F2E632 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		156727B61C5A712B0039690C /* Penguin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Penguin.swift; sourceTree = "<group>"; };
+		158877EF1C5FCA78007539D5 /* Animal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 		15B2AB9F1C57B62300F2E632 /* ATripToTheZoo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ATripToTheZoo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15B2ABA21C57B62300F2E632 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		15B2ABA41C57B62300F2E632 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -41,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				156727B61C5A712B0039690C /* Penguin.swift */,
+				158877EF1C5FCA78007539D5 /* Animal.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15B2ABA51C57B62300F2E632 /* ViewController.swift in Sources */,
+				158877F01C5FCA78007539D5 /* Animal.swift in Sources */,
 				15B2ABA31C57B62300F2E632 /* AppDelegate.swift in Sources */,
 				156727B71C5A712B0039690C /* Penguin.swift in Sources */,
 			);
